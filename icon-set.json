@@ -1,5 +1,4 @@
-[
-    {
+{
         "name": "默认",
         "description": "",
         "icons": [
@@ -44,65 +43,4 @@
                 "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/Qure.png"
             }
         ]
-    },
-    {
-        "name": "常用",
-        "description": "",
-        "icons": [
-            {
-                "name": "Domestic.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/Domestic.png"
-            },
-            {
-                "name": "HKMTMedia.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/HKMTMedia.png"
-            },
-            {
-                "name": "StreamingSE.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/StreamingSE.png"
-            },
-            {
-                "name": "Back.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/Back.png"
-            },
-            {
-                "name": "Global.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/Global.png"
-            },
-            {
-                "name": "GlobalMedia.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/GlobalMedia.png"
-            },
-            {
-                "name": "Streaming.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/Streaming.png"
-            },
-            {
-                "name": "Final.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/Final.png"
-            }
-        ]
-    },
-    {
-        "name": "限制",
-        "description": "",
-        "icons": [
-            {
-                "name": "Advertising.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/Advertising.png"
-            },
-            {
-                "name": "AdBlack.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/AdBlack.png"
-            },
-            {
-                "name": "AdWhite.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/AdWhite.png"
-            },
-            {
-                "name": "Hijacking.png",
-                "url": "https:\/\/raw.githubusercontent.com\/Koolson\/Qure\/master\/IconSet\/Hijacking.png"
-            }
-        ]
     }
-]
