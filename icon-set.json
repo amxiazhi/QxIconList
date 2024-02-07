@@ -1,0 +1,128 @@
+[
+    {
+        "name": "默认",
+        "description": "",
+        "icons": [
+            {
+                "name": "Direct.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Direct.png"
+            },
+            {
+                "name": "Proxy.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Proxy.png"
+            },
+            {
+                "name": "Reject.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Reject.png"
+            },
+            {
+                "name": "Auto.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Auto.png"
+            },
+            {
+                "name": "Static.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Static.png"
+            },
+            {
+                "name": "Available.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Available.png"
+            },
+            {
+                "name": "Round_Robin.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Round_Robin.png"
+            },
+            {
+                "name": "SSID.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SSID.png"
+            },
+            {
+                "name": "Quantumult_X.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png"
+            },
+            {
+                "name": "Qure.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Qure.png"
+            }
+        ]
+    },
+    {
+        "name": "常用",
+        "description": "",
+        "icons": [
+            {
+                "name": "Domestic.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Domestic.png"
+            },
+            {
+                "name": "HKMTMedia.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HKMTMedia.png"
+            },
+            {
+                "name": "StreamingSE.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/StreamingSE.png"
+            },
+            {
+                "name": "Back.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Back.png"
+            },
+            {
+                "name": "Global.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Global.png"
+            },
+            {
+                "name": "GlobalMedia.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMedia.png"
+            },
+            {
+                "name": "Streaming.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Streaming.png"
+            },
+            {
+                "name": "Final.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Final.png"
+            }
+        ]
+    },
+    {
+        "name": "限制",
+        "description": "",
+        "icons": [
+            {
+                "name": "Advertising.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Advertising.png"
+            },
+            {
+                "name": "AdBlack.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AdBlack.png"
+            },
+            {
+                "name": "AdWhite.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AdWhite.png"
+            },
+            {
+                "name": "Hijacking.png",
+                "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hijacking.png"
+            }
+        ]
+    },
+    {
+        "name": "应用",
+        "description": "",
+        "icons": ""
+    },
+    {
+        "name": "服务"
+    },
+    {
+        "name": "其他"
+    },
+    {
+        "name": "地区"
+    },
+    {
+        "name": "媒体"
+    },
+    {
+        "name": "服务商"
+    }
+]
