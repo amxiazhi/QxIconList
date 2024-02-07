@@ -104,25 +104,5 @@
                 "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hijacking.png"
             }
         ]
-    },
-    {
-        "name": "应用",
-        "description": "",
-        "icons": ""
-    },
-    {
-        "name": "服务"
-    },
-    {
-        "name": "其他"
-    },
-    {
-        "name": "地区"
-    },
-    {
-        "name": "媒体"
-    },
-    {
-        "name": "服务商"
     }
 ]
